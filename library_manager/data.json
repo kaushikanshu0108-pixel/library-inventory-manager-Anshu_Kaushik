@@ -1,0 +1,4 @@
+[
+  {"title": "Introduction to Python", "author": "A. Author", "isbn": "9781111111111", "status": "available"},
+  {"title": "Algorithms Unlocked", "author": "T. Cormen", "isbn": "9780262033848", "status": "issued"}
+]
